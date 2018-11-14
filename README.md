@@ -1,9 +1,10 @@
 # IQOD_Misc_6
 
-Create a program that will take an integer and print a number, then a certain number of asterisks that will equal the loop number.
+Create a program that will take an integer and print astrerisks, then the number to total the line number. See the examples below.
 
 Example:
 
+Running starsAndNumbers(7) creates
 ```
 1
 *2
@@ -12,4 +13,11 @@ Example:
 ****5
 *****6
 ******7
+```
+
+Running starsAndNumbers(3) creates
+```
+1
+*2
+**3
 ```
