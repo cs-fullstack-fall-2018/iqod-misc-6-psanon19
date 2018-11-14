@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+var count = 0;
+var userInput = parseInt(prompt("Input a number"));
+var astrix = "";
+
+
+for (i=0;i<userInput;i++)
+{
+    for (e=0;e<=i;++e)
+    {
+        count+=1;
+        document.write(astrix+count+"<br/>");
+        astrix+="*";
+    }
+
+}
+
+</script>
+
+</body>
+</html>
