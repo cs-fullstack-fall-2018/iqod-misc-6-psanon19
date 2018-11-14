@@ -4,7 +4,7 @@ Create a program that will take an integer and print astrerisks, then the number
 
 Example:
 
-Running starsAndNumbers(7) creates
+starsAndNumbers(7) creates
 ```
 1
 *2
@@ -15,7 +15,7 @@ Running starsAndNumbers(7) creates
 ******7
 ```
 
-Running starsAndNumbers(3) creates
+starsAndNumbers(3) creates
 ```
 1
 *2
